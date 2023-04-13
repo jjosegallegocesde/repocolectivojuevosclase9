@@ -7,7 +7,7 @@ class Juan_Pablo:
         self.tatuajes = True
         
     def saludar (self):
-        return (f"Hola soy un Juan Pablo")   
+        return (f"Hola soy un {self.nombre}")   
     
     
 nombre_uno = Juan_Pablo()
