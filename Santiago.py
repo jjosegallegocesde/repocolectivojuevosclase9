@@ -1,11 +1,11 @@
 class Santiago:
     
     def __init__(self):
-        self.nombre = None
-        self.edad = None
-        self.estatura = None
-        self.colorPelo = None
-        self.colorOjos = None
+        self.nombre = "Santiago"
+        self.edad = 19
+        self.estatura = 1.70
+        self.peso = 60
+        self.colorPelo = "Cafe Oscuro"
         
     def saludar(self):
         return "Buenas tardes :D"
